@@ -1,0 +1,65 @@
+
+#t-nav-lang{
+    margin-top:12px;
+}
+
+#t-back-button{
+    float: left;
+    margin-left: 60px;
+    display: none;
+}
+
+#t-back-button:hover{
+    border:1px solid grey;
+    border-radius: 100%;
+    box-shadow: -1px 0px 10px 1px #bab1b1;
+}
+
+#t-main{
+    margin: 10% 35% 25% 35%;
+    width: 35%;
+    position:absolute;
+}
+
+#t-buttons-group{
+    padding: 0px 19px 0px;
+}
+
+#t-reg-div{
+    margin:0% auto 5%;
+    width: 75%;
+    position:absolute;
+    right:-2000px;
+    display: none;
+}
+
+#t-reg-div .control-label{
+    text-align: left;
+    max-width: 125px;
+    padding: 5px 5px 5px;
+}
+
+.form-horizontal .form-group {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+#t-school{
+    margin-bottom: 15px;
+}
+
+#t-image-container{
+    float: left;
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: 12% !important;
+    margin-top: 3%;
+}
+
+.control-label{
+    max-width: none !important;
+}
+
+#t-reg-form span{
+    color:red;
+}

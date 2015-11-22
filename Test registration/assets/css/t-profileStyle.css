@@ -1,0 +1,41 @@
+
+#t-profile-div{
+    margin:5% auto 5%;
+    width: 85%;
+}
+
+#t-profile-div table{
+    margin-bottom: 0px !important;
+    font-size: larger;
+}
+
+#t-profile-div hr{
+    margin: 5px 0px 5px;
+}
+
+#t-profile-div h4{
+    margin: 0px;
+}
+
+#t-profile-div button{
+    margin-right: 15px;
+}
+
+#t-personal-table td{
+    vertical-align: middle;
+}
+
+#t-profile-fotoName{
+    max-height: 225px;
+    max-width: 200px;
+}
+
+.alert-info {
+    color: #27292A;
+    background-color: #DCDFE0;
+    border-color: #DCDFE0;
+}
+
+.t-profile-title{
+    font-weight: bold;
+}
